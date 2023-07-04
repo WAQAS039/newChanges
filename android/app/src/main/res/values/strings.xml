@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">al_quran</string>
+    <string name="facebook_app_id">967539834628130</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">f3b128268c77dcef7d3f974bb9673514</string>
+</resources>

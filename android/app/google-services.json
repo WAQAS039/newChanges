@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "966166920037",
+    "project_id": "quran-pro-and-islam-assistant",
+    "storage_bucket": "quran-pro-and-islam-assistant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966166920037:android:290b733db7d1c029a77f8c",
+        "android_client_info": {
+          "package_name": "com.example.nour_al_quran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966166920037-182r4q7gotjpbbvt6a885fciic9b6sl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nour_al_quran",
+            "certificate_hash": "2574fb90c0e84228bd476c15464ccaa562bb380c"
+          }
+        },
+        {
+          "client_id": "966166920037-f4aqoqfbnsteq5tjlognl1cfmubq7bl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nour_al_quran",
+            "certificate_hash": "070e57d536678901894de8daa7184ed2e43be24d"
+          }
+        },
+        {
+          "client_id": "966166920037-soiu1k3ejlfs4hjot2968jek908664gq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nour_al_quran",
+            "certificate_hash": "0db8af94eb860a8c0ada88c2e4255169b7eba97e"
+          }
+        },
+        {
+          "client_id": "966166920037-fn7cl6k1cr2pb93o7vn0qkvjf6o2b8dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7s3OVemjFzDfnOUJUaI93epAy51XuGyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966166920037-b7f08ki9vmbli31tkqhjvinu2vm8mrid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "966166920037-29tpru4ncj3bj8hii1ci1sqdoeilalqr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nouralquran"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966166920037:android:b651b4a013265dc8a77f8c",
+        "android_client_info": {
+          "package_name": "com.example.nouralquran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966166920037-5pr4ign8jg5pnh9vj625fbpqgnrugg4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nouralquran",
+            "certificate_hash": "0db8af94eb860a8c0ada88c2e4255169b7eba97e"
+          }
+        },
+        {
+          "client_id": "966166920037-a6kgsjekpk0ok3rs24mn0e52nvg4k0d6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nouralquran",
+            "certificate_hash": "070e57d536678901894de8daa7184ed2e43be24d"
+          }
+        },
+        {
+          "client_id": "966166920037-fn7cl6k1cr2pb93o7vn0qkvjf6o2b8dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7s3OVemjFzDfnOUJUaI93epAy51XuGyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966166920037-b7f08ki9vmbli31tkqhjvinu2vm8mrid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "966166920037-29tpru4ncj3bj8hii1ci1sqdoeilalqr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nouralquran"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966166920037:android:0ab3013dd95ce570a77f8c",
+        "android_client_info": {
+          "package_name": "com.nouralquran.nouralquran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966166920037-fn7cl6k1cr2pb93o7vn0qkvjf6o2b8dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7s3OVemjFzDfnOUJUaI93epAy51XuGyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966166920037-b7f08ki9vmbli31tkqhjvinu2vm8mrid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "966166920037-29tpru4ncj3bj8hii1ci1sqdoeilalqr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nouralquran"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
